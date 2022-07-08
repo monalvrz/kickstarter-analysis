@@ -19,14 +19,11 @@ selected, launch dates and funding goals.
 
 ### Analysis of Outcomes Based on Launch Date
 
-A pivot chart was used to perfome the analysis on the outcomes based on launch date. In order to do this,  
-
-
+A pivot chart was used to perfome the analysis on the outcomes based on launch date. In order to do this, the "date
+created conversion" was used to extract the extact month the campains were launched. In addition, the outcome variable was
+added, which made it possible to identify the results of the campaigns according to the month in which they were launched.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/107893200/177914213-4a37daf1-1255-4477-90cf-aea90554c987.png)
-
-
-
 
 ### Analysis of Outcomes Based on Goals
 
